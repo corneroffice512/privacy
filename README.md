@@ -4,9 +4,9 @@ Privacy Statement
 Your privacy is important to us. This mobile app is designed to help keep you safe by alerting you when dangerous animals are nearby and help you report a lost pet. Here's how we handle your data:
 
 What Data We Collect:
-Device Location
-Display Name - which you can customize
-Email Address
+Device Location,
+Display Name - which you can customize, and
+Email Address used to sign up.
 
 How We Use Your Location
 Your location is used only to:
