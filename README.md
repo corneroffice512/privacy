@@ -1,25 +1,27 @@
 # privacy
 Privacy Statement
 
-Your privacy is important to us. This mobile app is designed to help keep you safe by alerting you when dangerous animals are nearby. Here's how we handle your data:
+Your privacy is important to us. This mobile app is designed to help keep you safe by alerting you when dangerous animals are nearby and help you report a lost pet. Here's how we handle your data:
 
-What Data We Collect
-We do not collect any personal information. The only data we access is your location, which is obtained via the Google Maps API.
+What Data We Collect:
+Device Location
+Display Name - which you can customize
+Email Address
 
 How We Use Your Location
 Your location is used only to:
 
-Determine if you are near a reported dangerous animal
+Determine if you are near a reported dangerous animal or lost pet.
 
-Send you alerts when you're in proximity to such animals
+Send you alerts when you're in proximity to such animals.
 
-We do not store your location data on our servers or share it with any third parties.
+While we do store the devices location, we do not or share it with any third parties.
 
 Animal Reports
-We store the location of reported dangerous animals in order to notify nearby users. These reports are removed when it is determined that the animal is no longer present at that location.
+We store the location of reported dangerous animals or lost-pets in order to notify nearby users. These reports are deactivated when it is determined that the animal is no longer present at that location. All photos related to the reports are deleted after 24hrs of report deactivation.
 
 Your Control
-Because your location is never stored, there’s nothing for you to delete or manage. You can control app location access via your device settings at any time.
+You can control app location access via your device settings at any time.
 
 Contact
 If you have any questions about this privacy statement, please contact us at cornerofficesoftware@gmail.com.
